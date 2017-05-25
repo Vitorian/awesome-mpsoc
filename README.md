@@ -48,6 +48,16 @@ Application Notes
 
 ## Boards
 
+### Xilinx ZCU102
+
+* [Xilinx ZCU102 Development Board](https://www.xilinx.com/products/boards-and-kits/ek-u1-zcu102-g.html)
+* [Video Presentation](https://www.youtube.com/watch?v=HeXj4xw5n_A) YouTube
+* [Zynq UltraScale+ MPSoC ZCU102 Evaluation Kit Quick Start Guide](https://www.xilinx.com/support/documentation/boards_and_kits/zcu102/xtp426-zcu102-quickstart.pdf)
+* [Zynq UltraScale+ MPSoC ZCU102 Board User Guide](http://www.xilinx.com/support/documentation/boards_and_kits/zcu102/ug1182-zcu102-eval-bd.pdf)
+* [Zynq UltraScale+ MPSoC TRD User Guide](http://www.xilinx.com/support/documentation/boards_and_kits/zcu102/2016_4/ug1221-zcu102-base-trd.pdf)
+* [Zynq UltraScale+ MPSoC Software Acceleration TRD User Guide](http://www.xilinx.com/support/documentation/boards_and_kits/zcu102/2016_4/ug1211-zcu102-swaccel-trd.pdf)
+![ZCU102 board Image](https://www.xilinx.com/content/xilinx/en/products/boards-and-kits/ek-u1-zcu102-g/_jcr_content/mainParsys/xilinxtabs2/tab-hardware/xilinxtabs2_a7ee/tab-evalkit/xilinximage_6259.img.jpg/1494885568642.jpg)
+
 ### Ultra ZedBoard
 
 * [Ultra ZedBoard](http://zedboard.org/product/ultrazed-EG)
@@ -55,14 +65,18 @@ Application Notes
 
 ![UltraZed Board Image](http://adiuvoengineering.com/wp-content/uploads/2017/02/2017-01-26-16.59.43.jpg)
 
-### Xilinx ZCU102
 
-* [Xilinx ZCU102 Development Board](https://www.xilinx.com/products/boards-and-kits/ek-u1-zcu102-g.html)
-* [Zynq UltraScale+ MPSoC ZCU102 Evaluation Kit Quick Start Guide](https://www.xilinx.com/support/documentation/boards_and_kits/zcu102/xtp426-zcu102-quickstart.pdf)
-* [Zynq UltraScale+ MPSoC ZCU102 Board User Guide](http://www.xilinx.com/support/documentation/boards_and_kits/zcu102/ug1182-zcu102-eval-bd.pdf)
-* [Zynq UltraScale+ MPSoC TRD User Guide](http://www.xilinx.com/support/documentation/boards_and_kits/zcu102/2016_4/ug1221-zcu102-base-trd.pdf)
-* [Zynq UltraScale+ MPSoC Software Acceleration TRD User Guide](http://www.xilinx.com/support/documentation/boards_and_kits/zcu102/2016_4/ug1211-zcu102-swaccel-trd.pdf)
-![ZCU102 board Image](https://www.xilinx.com/content/xilinx/en/products/boards-and-kits/ek-u1-zcu102-g/_jcr_content/mainParsys/xilinxtabs2/tab-hardware/xilinxtabs2_a7ee/tab-evalkit/xilinximage_6259.img.jpg/1494885568642.jpg)
+### iVeia Atlas II-Z8 SoM
+* [Video](https://www.youtube.com/watch?v=_0KityImiBo)
+* [Product Page](http://iveia.com/atlas-ii-z8)
+![iVeia Atlas II Z8](http://iveia.com/wp-content/uploads/2017/03/atlas-ii-z8.png)
+
+### Enclustra Mars XU3 SoM
+
+* [Product page](http://www.enclustra.com/en/products/system-on-chip-modules/mars-xu3/)
+![Enclustra](https://www.xilinx.com/content/dam/xilinx/imgs/prime/mars_xu3_block_diagram_1000.png)
+
+
 
 
 
