@@ -66,6 +66,7 @@ Application Notes
 
 * [Aldec KU115](https://www.aldec.com/en/products/prototyping/hes_fpga_boards/kintex_ultrascale/hes_hpc_dsp_ku115)
 
-![Board Picture](https://www.aldec.com/images/content/products/hes_fpga_boards/kintex_ultrascale/hes_hpc_dsp_ku115.jpg)
+![Board Picture](https://www.aldec.com/images/content/products/hes_fpga_boards/kintex_ultrascale/hes_hpc_dsp_ku115_diagram.jpg) 
+
 
 
