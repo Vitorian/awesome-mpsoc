@@ -69,11 +69,13 @@ Application Notes
 ### iVeia Atlas II-Z8 SoM
 * [Video](https://www.youtube.com/watch?v=_0KityImiBo)
 * [Product Page](http://iveia.com/atlas-ii-z8)
+
 ![iVeia Atlas II Z8](http://iveia.com/wp-content/uploads/2017/03/atlas-ii-z8.png)
 
 ### Enclustra Mars XU3 SoM
 
 * [Product page](http://www.enclustra.com/en/products/system-on-chip-modules/mars-xu3/)
+
 ![Enclustra](https://www.xilinx.com/content/dam/xilinx/imgs/prime/mars_xu3_block_diagram_1000.png)
 
 
