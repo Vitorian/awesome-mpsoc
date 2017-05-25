@@ -5,6 +5,8 @@ Public resources available for Xilinx  MPSOC+ and SDSOC hardware
 
 Thanks to my friend [Steve Leibson](https://www.linkedin.com/in/steveleibson/), Director of Strategic Marketing and Business Planning at Xilinx, for providing insights for this list.
 
+![MPSOC Chart](mpsoc.PNG)
+
 ## Books
 
 * [The Zynq Book](http://amzn.to/2qdGmGQ) [(Chinese)](http://amzn.to/2qm2zxz) Embedded Processing with the Arm Cortex-A9 on the Xilinx Zynq-7000 All Programmable Soc 
