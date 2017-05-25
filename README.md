@@ -50,6 +50,7 @@ Application Notes
 
 * [Ultra ZedBoard](http://zedboard.org/product/ultrazed-EG)
 * [Adam Taylor's UltraZed Chronicles](http://www.ultrazedchronicles.com/)
+
 ![UltraZed Board Image](http://adiuvoengineering.com/wp-content/uploads/2017/02/2017-01-26-16.59.43.jpg)
 
 ### Xilinx ZCU102
@@ -61,5 +62,10 @@ Application Notes
 * [Zynq UltraScale+ MPSoC Software Acceleration TRD User Guide](http://www.xilinx.com/support/documentation/boards_and_kits/zcu102/2016_4/ug1211-zcu102-swaccel-trd.pdf)
 ![ZCU102 board Image](https://www.xilinx.com/content/xilinx/en/products/boards-and-kits/ek-u1-zcu102-g/_jcr_content/mainParsys/xilinxtabs2/tab-hardware/xilinxtabs2_a7ee/tab-evalkit/xilinximage_6259.img.jpg/1494885568642.jpg)
 
+### Aldec KU115
+
+* [Aldec KU115](https://www.aldec.com/en/products/prototyping/hes_fpga_boards/kintex_ultrascale/hes_hpc_dsp_ku115)
+
+![Board Picture](https://www.aldec.com/images/content/products/hes_fpga_boards/kintex_ultrascale/hes_hpc_dsp_ku115.jpg)
 
 
