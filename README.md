@@ -82,7 +82,8 @@ Application Notes
 ### Miami MPSoc ZU9
 
 * [Product Datasheet](https://topicembeddedproducts.com/app/uploads/2017/04/Miami-MPSoC-Leaflet.pdf)
+* [Manufacturer Page](https://topicembeddedproducts.com/products/system-on-modules/meet-the-family/)
 
-![Miami MPSoC](https://topicembeddedproducts.com/app/uploads/2016/10/MIAMI-MPSOC_voorkant_500dpi_4331px.png)
+![Miami MPSoC](http://www.directinsight.co.uk/wp-content/uploads/2016/09/miami-mpsoc-module-291x300.jpg)
 
 
