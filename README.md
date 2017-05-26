@@ -79,6 +79,10 @@ Application Notes
 ![Enclustra](https://www.xilinx.com/content/dam/xilinx/imgs/prime/mars_xu3_block_diagram_1000.png)
 
 
+### Miami MPSoc ZU9
 
+* [Product Datasheet](https://topicembeddedproducts.com/app/uploads/2017/04/Miami-MPSoC-Leaflet.pdf)
+
+![Miami MPSoC](https://topicembeddedproducts.com/app/uploads/2016/10/MIAMI-MPSOC_voorkant_500dpi_4331px.png)
 
 
